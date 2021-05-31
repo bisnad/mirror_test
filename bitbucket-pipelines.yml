@@ -4,4 +4,4 @@ pipelines:
   default:
     - step:
         script:
-          - git push --mirror bisnad@github.com:bisnad/mirror_test.git
+          - git push --mirror git@github.com:bisnad/mirror_test.git
